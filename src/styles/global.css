@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+html {
+    font-family: 'Inter', sans-serif;
+}
+body {
+    background-color: #000;
+    color: #fff;
+    margin: 0 auto;
+    padding: 0 1rem;
+    width: 100%;
+    max-width: 80ch;
+    line-height: 1.5;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    color: #fff;
+}
+h1 {
+    margin: 1rem 0;
+    font-size: 2.5rem;
+}
+h2 {
+    margin: 1rem 0; 
+    font-size: 1.5rem;
+}
+h3 {
+    margin: 1rem 0;
+    font-size: 1.25rem;
+}
+
+
